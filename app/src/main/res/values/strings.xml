@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KeiSoft</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="google_maps_key">AIzaSyBsYLMtWFxQD9iHco0r_IGgtCvcyvovSzc</string>
+
+    //String firebase
+    <string name="defaultWeb_client_id">webClient</string>
+    <string name="action_settings">Settings</string>
+</resources>
